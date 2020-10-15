@@ -43,8 +43,6 @@ function handlerNavigateToOrphanageDetails() {
                 </Marker>
             </MapView>
 
-            <View></View>
-
             <View style={styles.footer}>
                 <Text style={styles.footerText}>2 orfanatos encontrados</Text>
                 <TouchableOpacity style={styles.createOrphanageButton} onPress={() => { }}>
