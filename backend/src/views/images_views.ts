@@ -4,7 +4,7 @@ export default {
     render(image : Image) {
         return {
             id: image.id,
-            url: `http://localhost:3333/uploads/${image.path}`,
+            url: `https://3333-e3cbe1fb-06b9-4c27-86d3-c1719ce0472a.ws-us02.gitpod.io/uploads/${image.path}`,
         };
     },
 
