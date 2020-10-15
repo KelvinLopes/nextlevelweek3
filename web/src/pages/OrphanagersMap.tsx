@@ -14,10 +14,6 @@ interface Orphanage {
     latitude: number;
     longitude: number;
     name: string;
-
-     images: Array<{
-        url: string;
-    }>;
 }
 
 function OrphanageMap(){ 
