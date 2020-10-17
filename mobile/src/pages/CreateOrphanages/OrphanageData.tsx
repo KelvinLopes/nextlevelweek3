@@ -53,7 +53,7 @@ export default function OrphanageData() {
 
             images.forEach((image, index ) => {
                 data.append('images', {
-                    name: `ìmage_${index}.jpg`,
+                    name: `image_${index}.jpg`,
                     type: 'image/jpg',
                     uri: image,
                 } as any)
