@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github.com/KelvinLopes/nextlevelweek3/blob/main/Screenshots/Screenshot%202020-10-16%20at%2021.55.35.png" alt="Happy"  width="600" height="400"/>
-  <img src="https://github.com/KelvinLopes/nextlevelweek3/blob/main/Screenshots/Screenshot%202020-10-16%20at%2021.57.18.png" alt="Happy"  width="600" height="400"/>
 </p>
 
 #
