@@ -1,8 +1,24 @@
 # Happy
+
+<p align="center">
+  <img src="https://github.com/KelvinLopes/nextlevelweek3/blob/main/Screenshots/Screenshot%202020-10-16%20at%2021.55.35.png" alt="Happy"  width="600" height="400"/>
+</p>
+
+#
+
 Encontre orfanatos e ajude as crianças serem mais felizes!
 O app localiza orfanatos mais proxímos de sua localidade, com isso fica mais fácil descobrir algum, se informar sobre as instruções de visitas e horário de funcionamento.
 
+<p align="center">
+  <img src="https://github.com/KelvinLopes/nextlevelweek3/blob/main/Screenshots/Screenshot%202020-10-16%20at%2021.57.18.png" alt="Happy"  width="600" height="400"/>
+</p>
+
 Desenvolvido no ambiente web ReactJS, no mobile com React Native e em seu backend usa NodeJS.
+
+<p align="center">
+  <img src="https://github.com/KelvinLopes/nextlevelweek3/blob/main/Screenshots/Screenshot_20201016-215401.jpg" alt="Happy"  width="300" height="auto"/>
+</p>
+
 
 Para executar o projeto, faça o download ou no terminal execute ``` git clone https://github.com/KelvinLopes/nextlevelweek3 ``` ou
 o use comandos do **Github cli** ```gh repo clone KelvinLopes/nextlevelweek3```.
